@@ -1,0 +1,1 @@
+public record CreateOrderCommand(Guid CustomerId) : IRequest<Guid>;
