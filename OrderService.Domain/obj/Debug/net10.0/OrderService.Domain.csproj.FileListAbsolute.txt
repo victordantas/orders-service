@@ -1,0 +1,12 @@
+/workspaces/orders-service/OrderService.Domain/obj/Debug/net10.0/OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/orders-service/OrderService.Domain/obj/Debug/net10.0/OrderService.Domain.AssemblyInfoInputs.cache
+/workspaces/orders-service/OrderService.Domain/obj/Debug/net10.0/OrderService.Domain.AssemblyInfo.cs
+/workspaces/orders-service/OrderService.Domain/obj/Debug/net10.0/OrderService.Domain.csproj.CoreCompileInputs.cache
+/workspaces/orders-service/OrderService.Domain/obj/Debug/net10.0/OrderService.Domain.sourcelink.json
+/workspaces/orders-service/OrderService.Domain/bin/Debug/net10.0/OrderService.Domain.deps.json
+/workspaces/orders-service/OrderService.Domain/bin/Debug/net10.0/OrderService.Domain.dll
+/workspaces/orders-service/OrderService.Domain/bin/Debug/net10.0/OrderService.Domain.pdb
+/workspaces/orders-service/OrderService.Domain/obj/Debug/net10.0/OrderService.Domain.dll
+/workspaces/orders-service/OrderService.Domain/obj/Debug/net10.0/refint/OrderService.Domain.dll
+/workspaces/orders-service/OrderService.Domain/obj/Debug/net10.0/OrderService.Domain.pdb
+/workspaces/orders-service/OrderService.Domain/obj/Debug/net10.0/ref/OrderService.Domain.dll

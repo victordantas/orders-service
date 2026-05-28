@@ -1,5 +1,4 @@
-namespace OrderService.Domain;
-
+namespace OrderService.Domain.Entities;
 using OrderService.Domain.Enums;
 
 public class Order

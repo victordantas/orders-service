@@ -1,3 +1,5 @@
+namespace OrderService.Application.Common.Interfaces;
+
 using Microsoft.EntityFrameworkCore;
 using OrderService.Domain.Entities;
 

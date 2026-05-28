@@ -1,0 +1,6 @@
+/workspaces/orders-service/OrderService.Application/obj/Debug/net10.0/OrderService.Application.csproj.AssemblyReference.cache
+/workspaces/orders-service/OrderService.Application/obj/Debug/net10.0/OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/orders-service/OrderService.Application/obj/Debug/net10.0/OrderService.Application.AssemblyInfoInputs.cache
+/workspaces/orders-service/OrderService.Application/obj/Debug/net10.0/OrderService.Application.AssemblyInfo.cs
+/workspaces/orders-service/OrderService.Application/obj/Debug/net10.0/OrderService.Application.csproj.CoreCompileInputs.cache
+/workspaces/orders-service/OrderService.Application/obj/Debug/net10.0/OrderService.Application.sourcelink.json

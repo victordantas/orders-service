@@ -1,3 +1,5 @@
+namespace OrderService.Application.Orders.Commands;
+
 public class CreateOrderHandler: IRequestHandler<CreateOrderCommand, Guid>
 {
     private readonly IAppDbContext _context;
